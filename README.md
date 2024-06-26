@@ -8,6 +8,7 @@ Hey there! I'm Jean, a passionate software developer with a knack for web and mo
 ## 📈 GitHub Stats
 
 ![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanXristianPascua&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanXristianPascua&layout=compact&theme=radical)
 
 ## ⚡ Fun Fact
