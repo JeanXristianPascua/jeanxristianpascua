@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Xristian%20Pascua-blue)](https://www.linkedin.com/in/jeanxristianpascua)
 [![Email](https://img.shields.io/badge/Email-jex.pascua%40yahoo.com-yellow)](mailto:jex.pascua@yahoo.com)
 
-Hey there! I'm Jean, a passionate software developer with a knack for web and mobile app development. Fresh out of the Southern Alberta Institute of Technology (SAIT), I'm all about turning complex problems into cool, innovative solutions. I love working with awesome teams to build high-quality software that makes a difference. Can't wait to bring my skills and enthusiasm to the next exciting project!
+Hi there! I'm Jean, a driven software developer with a talent for creating both mobile and web applications. I recently graduated from the Southern Alberta Institute of Technology (SAIT), and I'm all about finding creative, original solutions to challenging issues. I adore collaborating with fantastic teams to create software that is both excellent and impactful. I can't wait to contribute my abilities and excitement to the upcoming exciting project!
 
 ## 📈 GitHub Stats
 
