@@ -1,17 +1,26 @@
-# Hi, I'm Jean Xristian Pascua 👋
+# Hi there! 👋 I'm [Jean Xristian Pascua]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Xristian%20Pascua-blue)](https://www.linkedin.com/in/jeanxristianpascua)
-[![Email](https://img.shields.io/badge/Email-jex.pascua%40yahoo.com-yellow)](mailto:jex.pascua@yahoo.com)
+Welcome to my GitHub! I'm a software developer with a passion for cybersecurity and an eye for efficient, scalable solutions. My journey includes a recent honor graduation from SAIT with a Software Development Diploma and hands-on experience in full-stack applications. I enjoy building secure, user-centered applications and am always exploring new technologies and techniques in the cybersecurity domain.
 
-Hi there! I'm Jean, a driven software developer with a talent for creating both mobile and web applications. I recently graduated from the Southern Alberta Institute of Technology (SAIT), and I'm all about finding creative, original solutions to challenging issues. I adore collaborating with fantastic teams to create software that is both excellent and impactful. I can't wait to contribute my abilities and excitement to the upcoming exciting project!
+---
 
-## 📈 GitHub Stats
+## 🔭 Current Projects
+- **Portfolio Website** - Developing my personal portfolio using React to showcase my work and skills.
 
-![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanXristianPascua&show_icons=true&theme=radical)
+## 🌱 Skills and Technologies
+- **Languages**: JavaScript, HTML, CSS
+- **Frameworks**: React, Node.js, Express
+- **Database**: MongoDB
+- **Cybersecurity**: Knowledgeable in secure coding practices, risk analysis, and threat mitigation
+- **Tools**: Git, VS Code, Postman, Docker
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanXristianPascua&layout=compact&theme=radical)
+## 📜 Certifications
+- **Beta Sigma Tau Certification**
+- **P-Hack 2022 Certificate from SAIT School for Advanced Digital Technology**
+- **Phi Theta Kappa Honor Society Member**
 
-## ⚡ Fun Fact
+## 📫 Let's Connect!
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/jeanxristianpascua/)
+- **Email**: [Your Email](mailto:jex.pascua@yahoo.com)
 
-I'm a huge fan of solving puzzles and playing video games. They keep my mind sharp and my creativity flowing!
-
+Feel free to explore my repositories and reach out if you'd like to collaborate or chat about cybersecurity and development!
