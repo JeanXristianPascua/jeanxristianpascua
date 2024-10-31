@@ -5,7 +5,6 @@ Welcome to my GitHub! I'm a software developer with a passion for cybersecurity 
 ---
 
 ## 🔭 Current Projects
-- **Portfolio Website** - Developing my personal portfolio using React to showcase my work and skills.
 - **Task Management App** - An application that allows users to manage tasks with user authentication, secure backend features, and a user-friendly interface
 
 ## 🌱 Skills and Technologies
