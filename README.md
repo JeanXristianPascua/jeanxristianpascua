@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a software developer with a passion for cybersecurity 
 - **Phi Theta Kappa Honor Society Member**
 
 ## 📫 Let's Connect!
-- **LinkedIn**(https://www.linkedin.com/in/jeanxristianpascua/)
-- **Email**(mailto:jex.pascua@yahoo.com)
+- **LinkedIn**: [https://www.linkedin.com/in/jeanxristianpascua/]
+- **Email**: (mailto:jex.pascua@yahoo.com)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or chat about cybersecurity and development!
