@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Jean Xristian Pascua]
+# Hi there! 👋 I'm Jean Xristian Pascua
 
 Welcome to my GitHub! I'm a software developer with a passion for cybersecurity and an eye for efficient, scalable solutions. My journey includes a recent honor graduation from SAIT with a Software Development Diploma and hands-on experience in full-stack applications. I enjoy building secure, user-centered applications and am always exploring new technologies and techniques in the cybersecurity domain.
 
