@@ -14,11 +14,6 @@ Welcome to my GitHub! I'm a software developer with a passion for cybersecurity 
 - **Cybersecurity**: Knowledgeable in secure coding practices, risk analysis, and threat mitigation
 - **Tools**: Git, VS Code, Postman, Docker
 
-## 📜 Certifications
-- **Beta Sigma Tau Certification**
-- **P-Hack 2022 Certificate from SAIT School for Advanced Digital Technology**
-- **Phi Theta Kappa Honor Society Member**
-
 ## 📫 Let's Connect!
 - **LinkedIn**: https://www.linkedin.com/in/jeanxristianpascua/
 - **Email**: [jex.pascua@yahoo.com](mailto:jex.pascua@yahoo.com)
