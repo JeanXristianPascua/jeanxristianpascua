@@ -5,12 +5,12 @@ Welcome to my GitHub! I'm a software developer with a passion for cybersecurity 
 ---
 
 ## 🔭 Current Projects
-- **Task Management App** - An application that allows users to manage tasks with user authentication, secure backend features, and a user-friendly interface
+- **Task Manager CLI** -  A simple command-line application to manage tasks.
 
 ## 🌱 Skills and Technologies
-- **Languages**: JavaScript, HTML, CSS
+- **Languages**: Python, JavaScript, HTML, CSS
 - **Frameworks**: React, Node.js, Express
-- **Database**: MongoDB
+- **Database**: MongoDB, SQL 
 - **Cybersecurity**: Knowledgeable in secure coding practices, risk analysis, and threat mitigation
 - **Tools**: Git, VS Code, Postman, Docker
 
