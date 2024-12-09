@@ -8,11 +8,11 @@ Welcome to my GitHub! I'm a software developer with a passion for cybersecurity 
 - **Task Manager CLI** -  A simple command-line application to manage tasks.
 
 ## 🌱 Skills and Technologies
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks**: React, Node.js, Express
-- **Database**: MongoDB, SQL 
-- **Cybersecurity**: Knowledgeable in secure coding practices, risk analysis, and threat mitigation
-- **Tools**: Git, VS Code, Postman, Docker
+- **Languages**: Python, JavaScript, C#, HTML, CSS 
+- **Frameworks**: React, Node.js, Express, .NET MAUI
+- **Database**: MongoDB, SQL, Oracle SQL, PL/SQL 
+- **Cybersecurity**: Secure coding practices, risk analysis, and threat mitigation
+- **Tools**: Git, VS Code, Postman, Docker, Figma, Azure, PowerShell
 
 ## 📫 Let's Connect!
 - **LinkedIn**: https://www.linkedin.com/in/jeanxristianpascua/
