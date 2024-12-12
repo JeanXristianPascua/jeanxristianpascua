@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a software developer with a passion for cybersecurity 
 ---
 
 ## 🔭 Current Projects
-- **Task Manager CLI** -  A simple command-line application to manage tasks.
+- **Basic Calculator** -  A simple C# calculator project.
 
 ## 🌱 Skills and Technologies
 - **Languages**: Python, JavaScript, C#, HTML, CSS 
