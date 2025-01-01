@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a software developer with a passion for cybersecurity 
 ---
 
 ## 🔭 Current Projects
-- **Basic Calculator** -  A simple C# calculator project.
+- **Simple Chatbot** -  A simple Java chatbot.
 
 ## 🌱 Skills and Technologies
 - **Languages**: Python, JavaScript, C#, HTML, CSS 
