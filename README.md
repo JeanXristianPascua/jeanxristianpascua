@@ -4,9 +4,6 @@ Welcome to my GitHub! I'm a software developer with a passion for cybersecurity 
 
 ---
 
-## 🔭 Current Projects
-
-
 ## 🌱 Skills and Technologies
 - **Languages**: Python, JavaScript, C#, HTML, CSS 
 - **Frameworks**: React, Node.js, Express, .NET MAUI
